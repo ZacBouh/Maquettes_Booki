@@ -403,7 +403,6 @@ footer {
 
     .hebergements {
         width: 100%;
-        padding: ;
     }
 
     .populaires {
@@ -554,11 +553,9 @@ footer {
         padding-top: 16px;
         padding-bottom: 0px;
         filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.4));
-        /* z-index: 3; */
     }
 
     #filter-bar {
-        /* display: block; */
         display: flex;
     }
 
